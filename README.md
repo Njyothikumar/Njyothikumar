@@ -82,8 +82,3 @@
 
 > "The best way to predict the future is to invent it." — **Alan Kay**
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/njyothikumar/njyothikumar/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
